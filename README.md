@@ -103,3 +103,6 @@ The project includes a test suite to verify the correctness of the A* implementa
 ```bash
 python3 -m unittest test_a_star.py
 ```
+
+### Demo Video
+[peppermint_demo.webm](https://github.com/user-attachments/assets/5582045c-5651-428d-a31a-463dd671c4e7)
