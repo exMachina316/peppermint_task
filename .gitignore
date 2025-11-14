@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# VS Code
+.vscode/
+
